@@ -410,7 +410,7 @@ Fameuxarte is licensed under the MIT License - see the [LICENSE](LICENSE) file f
 
 ## 📞 Contact
 
-Project Maintainer: Your Name - [your.email@example.com](mailto:your.email@example.com)
+Project Maintainer: Your Name - [arunkumar.ai.engineer@example.com](mailto:your.email@example.com)
 
 ### Social Media
 - [Twitter](https://twitter.com/fameuxarte)
